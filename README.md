@@ -1,5 +1,5 @@
 - Hi, I’m @chito920.
-- I'm a beginner at programming.
+- I'm new to programming.
 - I’m currently learning Python in my free time.
 - I'm interested in contributing to free and open source software that interests me in any way I can.
 
