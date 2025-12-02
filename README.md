@@ -1,4 +1,3 @@
-## Hi there
 - Hi, I’m @chito920.
 - I'm a beginner at programming.
 - I’m currently learning Python in my free time.
